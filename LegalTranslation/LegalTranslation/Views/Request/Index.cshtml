@@ -1,0 +1,98 @@
+﻿@using LegalTranslation.Data
+@using LegalTranslation.ViewModels
+@model CreateRequestViewModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Заявка";
+    string name = "ММ-ДИМИТЪР МАРКОВ";
+}
+
+@if(@TempData["AlertMessage"] != null)
+{
+    <div class="alert alert-success">
+        <strong>Success! </strong>@TempData["AlertMessage"]
+    </div>
+}
+
+
+<div class="body-custom">
+    <h1>@name - Нова заявка</h1>
+
+    <br>
+
+
+    <form method="post" asp-action="Index" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="FirstName">Първо име</label>
+            <input asp-for="FirstName" class="form-control" placeholder="Иван" required>
+            <span asp-validation-for="FirstName" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <label asp-for="FamilyName">Фамилно име</label>
+            <input asp-for="FamilyName" class="form-control" placeholder="Иванов" required>
+            <span asp-validation-for="FamilyName" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <label asp-for="Phone">Телефон за връзка:</label>
+            <input asp-for="Phone" class="form-control" placeholder="10-цифрен номер" type="tel" required pattern="[0-9]*">
+            <span asp-validation-for="Phone" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <label asp-for="Email">E-mail:</label>
+            <input asp-for="Email" class="form-control" placeholder="youremail@email.com" type="email" required>
+            <span asp-validation-for="Email" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <label asp-for="FromLanguage">От език:</label>
+            <select asp-for="FromLanguage" asp-items="@Model.AvailableLanguages" class="form-control form-control-lg" required>
+                <option selected="selected"></option>
+            </select>
+            <span asp-validation-for="FromLanguage" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <label asp-for="ToLanguage">На език:</label>
+            <select asp-for="ToLanguage" asp-items="@Model.AvailableLanguages" class="form-control form-control-lg" required>
+                <option selected="selected"></option>
+            </select>
+            <span asp-validation-for="ToLanguage" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <label asp-for="Files">Прикачени файлове:</label>
+            <input asp-for="Files" type="file" class="form-control" multiple id="file"  accept="image/*, application/pdf, application/msword, application/vnd.ms-excel, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, text/*" required>
+            <span asp-validation-for="Files" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <label asp-for="AdditionalInfo">Допълнителна информация:</label>
+            <input asp-for="AdditionalInfo" class="form-control" placeholder="Допълнителна информация" required>
+            <span asp-validation-for="AdditionalInfo" class+"text-danger"></span>
+        </div>
+
+        <br>
+
+        <button type="submit" class="btn bluebtn-custom">Изпрати заявка</button>
+    </form>
+</div>

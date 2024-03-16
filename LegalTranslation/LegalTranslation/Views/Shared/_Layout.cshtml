@@ -1,0 +1,159 @@
+﻿@{
+  string name = "ММ-ДИМИТЪР МАРКОВ";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>@ViewData["Title"] - @name</title>
+  <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="~/css/site.css" />
+  <script scr="~/js/site.js"></script>
+</head>
+<body>
+  
+  <header>
+      <nav class="navbar">
+          @*if???*@
+          <div class="brand-title">
+              @if (!User.Identity.IsAuthenticated)
+              {
+                  <a asp-area="" asp-controller="Home" asp-action="Index" class="brand-text">@name</a>
+              }
+          </div>
+          <a class="toggle-button">
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+          </a>
+          <div class="navbar-links">
+              <ul>
+                  @if (User.Identity.IsAuthenticated)
+                  {
+                      <li>
+                          <a asp-area="" asp-controller="Admin" asp-action="Index">Home</a>
+                      </li>
+                      @if (User.IsInRole("admin"))
+                      {
+                          <li>
+                              <a asp-area="" asp-controller="Admin" asp-action="ChangeAdminEmail">Admin E-mail</a>
+                          </li>
+                          <li>
+                              <a asp-area="" asp-controller="Admin" asp-action="ChangeCompanyEmail">Фирмен E-mail</a>
+                          </li>
+                          <li>
+                              <a asp-area="" asp-controller="Admin" asp-action="AddWorker">Добави нов</a>
+                          </li>
+                          <li>
+                              <a asp-area="" asp-controller="Admin" asp-action="AllWorkers">Workers</a>
+                          </li>
+                          <li>
+                              <a asp-area="" asp-controller="Admin" asp-action="ChangeEmail">Промени E-mail</a>
+                          </li>
+                      }
+                      <li class="li-custom">
+                          <a asp-area="" asp-controller="Admin" asp-action="ChangePassword">Промерни парола</a>
+                      </li>
+                      <li class="li-custom">
+                          <a asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                      </li>
+                  }
+                  else
+                  {
+                      <li>
+                          <a asp-area="" asp-controller="Home" asp-action="Index">Начало</a>
+                      </li>
+                      <li>
+                          <a asp-area="" asp-controller="ForUs" asp-action="Index">За нас</a>
+                      </li>
+                      <li>
+                          <a asp-area="" asp-controller="Services" asp-action="Index">Услуги</a>
+                      </li>
+                  }
+                  @if (!User.Identity.IsAuthenticated)
+                  {
+                      <li>
+                          <a asp-area="" asp-controller="Request" asp-action="Index" class="actionBtn">Направи заявка</a>
+                      </li>
+                  }
+              </ul>
+          </div>
+          
+      </nav>
+  </header>
+
+
+
+
+  <div class="container-xxl px-0">
+      <main role="main">
+          @RenderBody()
+      </main>
+  </div>
+
+
+
+
+  <footer class="footer">
+      <div class="container">
+          <div class="row">
+              <div class="footer-col">
+                  <h4>Контакти</h4>
+                  <ul>
+                      <li><a href="#" onclick="copyText(this)">089 705 9787</a></li>
+                      <li><a href="#" onclick="copyText(this)">046 663 384</a></li>
+                      <li><a href="#" onclick="copyText(this)">m_d_markova@abv.bg</a></li>
+                  </ul>
+              </div>
+              <div class="footer-col">
+                  <h4>Адрес</h4>
+                  <ul>
+                      <li><a href="#" onclick="copyText(this)">Ямбол, 8600<br />ул. Жорж Папазов 14<br />етаж 4, офис 405</a></li>
+                  </ul>
+                  <h4></h4>
+                  <ul>
+                      <li><a href="#" onclick="copyText(this)">Yambol, 8600<br />str. Zhorzh Papazov 14<br />floor 4, office 405</a></li>
+                  </ul>
+              </div>
+              <div class="footer-col">
+                  <h4>Работно време</h4>
+                  <ul>
+                      <li><a href="#">Понеделник: 9:00 – 17:30</a></li>
+                      <li><a href="#">Вторник: 9:00 – 17:30</a></li>
+                      <li><a href="#">Сряда: 9:00 – 17:30</a></li>
+                      <li><a href="#">Четвъртък: 9:00 – 17:30</a></li>
+                      <li><a href="#">Петък: 9:00 – 17:30</a></li>
+                      <li><a href="#">Събота: затворено / Closed</a></li>
+                      <li><a href="#">Неделя: затворено / Closed</a></li>
+                  </ul>
+              </div>
+          </div>
+
+          <div class="row">
+              <div class="footer-col-b">
+                  <h4>Локация</h4>
+                  <iframe class="iframe-bot" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4161.036472852123!2d26.50416064689255!3d42.485235875618145!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40a63439ba213c3b%3A0xa2b4d99709a42c89!2z0JzQnCAtINCU0JjQnNCY0KLQqtCgINCc0JDQoNCa0J7Qkg!5e0!3m2!1sbg!2sbg!4v1706451746689!5m2!1sbg!2sbg"></iframe>
+              </div>
+          </div>
+      </div>
+  </footer>
+
+  <script src="~/lib/jquery/dist/jquery.min.js"></script>
+  <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="~/js/site.js" asp-append-version="true"></script>
+  @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+<script>
+  function copyText(element) {
+      var textarea = document.createElement('textarea');
+      textarea.value = element.innerText;
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textarea);
+  }
+</script>

@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Начало";
+    string name = "ММ-ДИМИТЪР МАРКОВ";
+}
+@if(@TempData["AlertMessageRed"] != null)
+    {
+        <div class="alert alert-danger">
+            <strong>Съобщение - </strong>@TempData["AlertMessageRed"]
+        </div>
+    }
+    @if(@TempData["AlertMessageGreen"] != null)
+    {
+        <div class="alert alert-success">
+            <strong>Съобщение - </strong>@TempData["AlertMessageGreen"]
+        </div>
+    }
+<div class="body-custom">
+    <img src="~/banner.png" width="100%">
+    <br>
+    <br>
+    <h1>Добре дошли в @name!</h1>
+
+    <p>Нашият сайт предлага висококачествени услуги по превод и легализация, съчетани 
+        с професионализъм и надеждност. Независимо дали сте физическо или юридическо лице, 
+        нашите експертни преводачи и консултанти ще ви помогнат в ефективното осъществяване 
+        на вашия проект.</p>
+</div>

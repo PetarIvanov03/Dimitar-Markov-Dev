@@ -1,0 +1,115 @@
+﻿
+@model List<Request>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Всички заявки";
+    DateTime timeNow = DateTime.Now;
+}
+<br>
+    @if(@TempData["AlertMessageRed"] != null)
+    {
+        <div class="alert alert-danger">
+            <strong>Съобщение - </strong>@TempData["AlertMessageRed"]
+        </div>
+    }
+    @if(@TempData["AlertMessageGreen"] != null)
+    {
+        <div class="alert alert-success">
+            <strong>Съобщение - </strong>@TempData["AlertMessageGreen"]
+        </div>
+    }
+<br>
+
+<main>
+
+  <section class="py-5 text-center container ">
+        <div class="row py-lg-5 adminbody-custom">
+            <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Заявки</h1>
+        <p class="lead text-body-secondary">Списък с всички заявки</p>
+        <p>
+            <a asp-controller="Admin" asp-action="Index" class="btn graybtn-custom mt-1">Всички</a>
+            <a asp-controller="Admin" asp-action="PendingRequests" class="btn redbtn-custom mt-1">Чакащи</a>
+            <a asp-controller="Admin" asp-action="CompletedRequests" class="btn greenbtn-custom mt-1">Завършени</a>
+        </p>
+        @if (User.IsInRole("admin"))
+            {
+                <p>
+                    <a asp-controller="Admin" asp-action="LanguagesEdit" class="btn bluebtn-custom">Езици</a>
+                </p>
+            }
+                
+      </div>
+    </div>
+  </section>
+  <div class="album py-5 bg-body-tertiary">
+    <div class="container">
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+          @foreach(var item in Model)
+                {
+                    <div class="col">
+                      <div class="card shadow-sm">
+                        <div class="card-body" style = "background-color: @(item.IsPending ? "rgba(255, 0, 0, 0.1)" : "rgba(0, 255, 0, 0.1)");">
+                          @if(item.IsPending)
+                                      {
+                                          <p class="card-text">ЧАКАЩА</p>
+                                      }
+                                      else
+                                      {
+                                          <p class="card-text">ЗАВЪРШЕНА</p>
+                                      }
+                          <br>
+                          <p class="card-text">@item.FirstName @item.FamilyName</p>
+                          <p class="card-text">@item.Email</p>
+                          <p class="card-text">@item.Phone</p>
+                          <p class="card-text">@item.FromLanguage.Name >>> @item.ToLanguage.Name</p>
+                          
+                          <div class="d-flex justify-content-between align-items-center">
+                            <div class="btn-group">
+                                        <a asp-controller="Admin" asp-action="Details" asp-route-id=@item.Id class="btn btn-sm btn-outline-secondary" style="background-color: rgb(190, 190, 190)">Детайли</a>
+                                @if(item.IsPending)
+                                        {
+                                            <a asp-controller="Admin" asp-action="UpdateRequestReady" asp-route-id=@item.Id class="btn btn-sm btn-outline-secondary" style = "background-color: rgb(86, 219, 130);">Завършена</a>
+                                        }
+                                        else
+                                        {
+                                            <a asp-controller="Admin" asp-action="UpdateRequestPending" asp-route-id=@item.Id class="btn btn-sm btn-outline-secondary" style = "background-color: rgb(255, 150, 150);">Чакаща</a>
+                                        }
+                            </div>
+                                <small>
+                                    @if (timeNow - item.DateCreated < TimeSpan.FromHours(1))
+                                    {
+                                        <p>Преди @((timeNow - item.DateCreated).Minutes.ToString()) минути</p>
+                                    }
+                                    else if(timeNow - item.DateCreated < TimeSpan.FromDays(1) && timeNow - item.DateCreated > TimeSpan.FromHours(1))
+                                    {
+                                        <p>Преди @(Math.Round((timeNow - item.DateCreated).TotalHours)) часа</p>
+                                    }
+                                    else if(timeNow - item.DateCreated < TimeSpan.FromDays(7) && timeNow - item.DateCreated > TimeSpan.FromDays(1))
+                                    {
+                                        <p>Преди @(Math.Round((timeNow - item.DateCreated).TotalDays)) дни</p>
+                                    }
+                                    else if(timeNow - item.DateCreated < TimeSpan.FromDays(30) && timeNow - item.DateCreated > TimeSpan.FromDays(7))
+                                    {
+                                        <p>Преди @(Math.Round((timeNow - item.DateCreated).TotalDays / 7)) седмици</p>
+                                    }
+                                    else
+                                    {
+                                        <p>Преди @(Math.Round((timeNow - item.DateCreated).TotalDays / 30)) месеца</p>
+                                    }
+                                </small>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                }
+      </div>
+
+    </div>
+  </div>
+
+</main>

@@ -1,0 +1,1333 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LegalTranslation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LegalTranslation.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\background.jpg",
+      "PackagePath": "staticwebassets\\background.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\banner.png",
+      "PackagePath": "staticwebassets\\banner.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\00480339-3a0d-4b1c-8205-7b678cc2de97.png",
+      "PackagePath": "staticwebassets\\uploads\\00480339-3a0d-4b1c-8205-7b678cc2de97.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\00ea81dd-1570-48bf-817b-15f8beb8b55a.png",
+      "PackagePath": "staticwebassets\\uploads\\00ea81dd-1570-48bf-817b-15f8beb8b55a.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\056d6824-e389-468d-9c88-3734aafccc5d.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\056d6824-e389-468d-9c88-3734aafccc5d.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\06eaac27-211b-4938-abdb-08dc395b00fa.pdf",
+      "PackagePath": "staticwebassets\\uploads\\06eaac27-211b-4938-abdb-08dc395b00fa.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\0866e3f7-b380-4f02-83ba-66aa5d9aeb5c.doc",
+      "PackagePath": "staticwebassets\\uploads\\0866e3f7-b380-4f02-83ba-66aa5d9aeb5c.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\093ed2a8-47c5-40ff-9b62-96c02f980ed8.pdf",
+      "PackagePath": "staticwebassets\\uploads\\093ed2a8-47c5-40ff-9b62-96c02f980ed8.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\0a12b4f7-89d1-4eed-936f-28802c1cee39.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0a12b4f7-89d1-4eed-936f-28802c1cee39.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\0b5564f4-dd96-4ab2-8f99-1f5b6011ffa5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0b5564f4-dd96-4ab2-8f99-1f5b6011ffa5.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\0ba5c757-fa66-481c-8d8c-bf57e6f11188.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0ba5c757-fa66-481c-8d8c-bf57e6f11188.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\0ca4123e-0b14-4372-85ce-df42afc0adb5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0ca4123e-0b14-4372-85ce-df42afc0adb5.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\0cfb6350-bcaa-48c6-ad37-db0a1a6f72b5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0cfb6350-bcaa-48c6-ad37-db0a1a6f72b5.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\0d65db26-9d74-46cc-8fc9-8cbe469c3bd7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0d65db26-9d74-46cc-8fc9-8cbe469c3bd7.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\10415528-69a7-4a79-994a-1bc8d6a13534.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\10415528-69a7-4a79-994a-1bc8d6a13534.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\10b10291-219a-447d-a1e9-19ff8c863d5c.doc",
+      "PackagePath": "staticwebassets\\uploads\\10b10291-219a-447d-a1e9-19ff8c863d5c.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\10ccfa77-fc91-499e-bba2-44762a36d10e.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\10ccfa77-fc91-499e-bba2-44762a36d10e.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\114914a3-e5d3-42ef-836f-dd1009e46f84.pdf",
+      "PackagePath": "staticwebassets\\uploads\\114914a3-e5d3-42ef-836f-dd1009e46f84.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\12d334f7-afc3-491d-8ab7-b5f6be8c800d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\12d334f7-afc3-491d-8ab7-b5f6be8c800d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\14452d60-fcab-4711-b313-0d383b6eee7f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\14452d60-fcab-4711-b313-0d383b6eee7f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\14be5e46-02da-42d7-a73c-c47f512c2631.pdf",
+      "PackagePath": "staticwebassets\\uploads\\14be5e46-02da-42d7-a73c-c47f512c2631.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\16ff0717-3ed2-4d9d-a4fa-95d9589e55bf.pdf",
+      "PackagePath": "staticwebassets\\uploads\\16ff0717-3ed2-4d9d-a4fa-95d9589e55bf.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\18753232-e354-4b8c-a7e8-d0205556ed4e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\18753232-e354-4b8c-a7e8-d0205556ed4e.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\196bf9f9-6101-4782-b2f2-4149b88ad1fb.pdf",
+      "PackagePath": "staticwebassets\\uploads\\196bf9f9-6101-4782-b2f2-4149b88ad1fb.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\1a97c841-1e34-410b-a7e8-6d631ba8ae1f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\1a97c841-1e34-410b-a7e8-6d631ba8ae1f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\1ab57688-9304-4a60-bdde-3e7fc09350e6.pdf",
+      "PackagePath": "staticwebassets\\uploads\\1ab57688-9304-4a60-bdde-3e7fc09350e6.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\1b3d3c64-c71c-4a1c-a38e-b16e7e659bf4.pdf",
+      "PackagePath": "staticwebassets\\uploads\\1b3d3c64-c71c-4a1c-a38e-b16e7e659bf4.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\1c00ec48-c03e-41b4-ae98-3d9efeb328b0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1c00ec48-c03e-41b4-ae98-3d9efeb328b0.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\1ed88f24-1406-4930-b270-d16b584e4d24.png",
+      "PackagePath": "staticwebassets\\uploads\\1ed88f24-1406-4930-b270-d16b584e4d24.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\22b66f44-1080-40f1-bbc9-b1779d5e097d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\22b66f44-1080-40f1-bbc9-b1779d5e097d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\231eb823-b36e-40a7-93f1-71fff354b0e7.png",
+      "PackagePath": "staticwebassets\\uploads\\231eb823-b36e-40a7-93f1-71fff354b0e7.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\23bb47cd-5d3a-4a08-9cdb-107c05f04d38.pdf",
+      "PackagePath": "staticwebassets\\uploads\\23bb47cd-5d3a-4a08-9cdb-107c05f04d38.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\24118f94-e2c6-4072-a86e-c323841f75a0.png",
+      "PackagePath": "staticwebassets\\uploads\\24118f94-e2c6-4072-a86e-c323841f75a0.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\271a3f83-2894-4634-8ef7-bb4b9673b64c.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\271a3f83-2894-4634-8ef7-bb4b9673b64c.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\29f40b34-1b6d-44ec-bb02-8448e7169ff5.png",
+      "PackagePath": "staticwebassets\\uploads\\29f40b34-1b6d-44ec-bb02-8448e7169ff5.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\2a5de97f-a00d-4ddf-b888-cf6ba9d55f2d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\2a5de97f-a00d-4ddf-b888-cf6ba9d55f2d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\2adfe74c-d930-4d3b-98f4-89c705e28abb.pdf",
+      "PackagePath": "staticwebassets\\uploads\\2adfe74c-d930-4d3b-98f4-89c705e28abb.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\2c7e9143-6edd-4663-9820-8e93ad5ab6aa.png",
+      "PackagePath": "staticwebassets\\uploads\\2c7e9143-6edd-4663-9820-8e93ad5ab6aa.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\2cd5a454-69cb-4af7-a54d-86a40f01cf96.pdf",
+      "PackagePath": "staticwebassets\\uploads\\2cd5a454-69cb-4af7-a54d-86a40f01cf96.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\2da7cc6e-e25a-4c7e-bad0-13008f8637d1.png",
+      "PackagePath": "staticwebassets\\uploads\\2da7cc6e-e25a-4c7e-bad0-13008f8637d1.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\2dc8ed2a-88d4-4901-801b-e35522a65dfc.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\2dc8ed2a-88d4-4901-801b-e35522a65dfc.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\305c22fc-15e8-40ab-9f16-2538167a38b2.png",
+      "PackagePath": "staticwebassets\\uploads\\305c22fc-15e8-40ab-9f16-2538167a38b2.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\32b0b923-1484-499a-b5db-8f4b611df4cb.pdf",
+      "PackagePath": "staticwebassets\\uploads\\32b0b923-1484-499a-b5db-8f4b611df4cb.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3402b2ae-12ed-4b3e-8320-fd317f996bdf.png",
+      "PackagePath": "staticwebassets\\uploads\\3402b2ae-12ed-4b3e-8320-fd317f996bdf.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\36d4326e-ba52-48ce-b9c8-e9c498477e3b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\36d4326e-ba52-48ce-b9c8-e9c498477e3b.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\377bc3ae-3fba-4a59-bc69-d2f09c8c2f97.png",
+      "PackagePath": "staticwebassets\\uploads\\377bc3ae-3fba-4a59-bc69-d2f09c8c2f97.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3852e5d6-650a-4e12-af52-9c9ce4844fff.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3852e5d6-650a-4e12-af52-9c9ce4844fff.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\397cba5d-9f17-4365-bffc-06151bf03be2.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\397cba5d-9f17-4365-bffc-06151bf03be2.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3b209e6f-fe50-456a-bc8e-8f95942c350a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3b209e6f-fe50-456a-bc8e-8f95942c350a.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3c72abee-c4f2-4621-ad66-b9205e6b866e.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\3c72abee-c4f2-4621-ad66-b9205e6b866e.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3c8dfb41-2dbc-41e6-905d-e045400188ea.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\3c8dfb41-2dbc-41e6-905d-e045400188ea.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3d065bd7-7345-4607-8179-47437eec2b6d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3d065bd7-7345-4607-8179-47437eec2b6d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3e621fbe-e003-446c-8dee-a24da7723776.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\3e621fbe-e003-446c-8dee-a24da7723776.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3f3f2342-cb63-475a-89e7-227b767d5319.mp3",
+      "PackagePath": "staticwebassets\\uploads\\3f3f2342-cb63-475a-89e7-227b767d5319.mp3"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3f746046-5db5-4a66-9a6e-7f18da907da8.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3f746046-5db5-4a66-9a6e-7f18da907da8.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3fbd7d8a-7c8a-466c-84de-6aee8d3fd862.png",
+      "PackagePath": "staticwebassets\\uploads\\3fbd7d8a-7c8a-466c-84de-6aee8d3fd862.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3fce0e28-c494-4af9-bbaa-910ade5b8655.PDF",
+      "PackagePath": "staticwebassets\\uploads\\3fce0e28-c494-4af9-bbaa-910ade5b8655.PDF"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\3fdd55ef-ff1c-4632-a0ac-24139756851a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3fdd55ef-ff1c-4632-a0ac-24139756851a.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\428c2d68-e688-4659-94c8-bb89ff5a8b84.pdf",
+      "PackagePath": "staticwebassets\\uploads\\428c2d68-e688-4659-94c8-bb89ff5a8b84.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\44a22e35-c485-4b89-86d9-67d683e07257.png",
+      "PackagePath": "staticwebassets\\uploads\\44a22e35-c485-4b89-86d9-67d683e07257.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\45c2c0a4-bfed-4de6-bf98-67d8bfe420d2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\45c2c0a4-bfed-4de6-bf98-67d8bfe420d2.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\494fcf1b-98f8-42d3-9827-932f98dcfb5f.doc",
+      "PackagePath": "staticwebassets\\uploads\\494fcf1b-98f8-42d3-9827-932f98dcfb5f.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\495a12c7-277c-4925-a770-9be5bbc614a6.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\495a12c7-277c-4925-a770-9be5bbc614a6.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\4aa6a654-631f-4bfd-8803-30d3c3da2c60.doc",
+      "PackagePath": "staticwebassets\\uploads\\4aa6a654-631f-4bfd-8803-30d3c3da2c60.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\4ad9276f-ccc8-4968-bc8f-0ea6d68476a9.pdf",
+      "PackagePath": "staticwebassets\\uploads\\4ad9276f-ccc8-4968-bc8f-0ea6d68476a9.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\4bab7592-259e-4b56-95d7-b59dd1d5860c.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\4bab7592-259e-4b56-95d7-b59dd1d5860c.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\4c250801-735e-4cfb-82f1-365bc59886ff.pdf",
+      "PackagePath": "staticwebassets\\uploads\\4c250801-735e-4cfb-82f1-365bc59886ff.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\4c360ca4-e2e5-4521-b113-16559d341609.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\4c360ca4-e2e5-4521-b113-16559d341609.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\51cc2d4f-fbf9-46ea-940c-51504e83d2f4.pdf",
+      "PackagePath": "staticwebassets\\uploads\\51cc2d4f-fbf9-46ea-940c-51504e83d2f4.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\52515d2a-65ef-4a72-aa08-9be2b3e36efc.pdf",
+      "PackagePath": "staticwebassets\\uploads\\52515d2a-65ef-4a72-aa08-9be2b3e36efc.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\56456ccf-6e75-437d-bc1d-d160c4d4c48e.pdf",
+      "PackagePath": "staticwebassets\\uploads\\56456ccf-6e75-437d-bc1d-d160c4d4c48e.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\5b315b6a-dbeb-445f-b1fd-2800753327f0.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\5b315b6a-dbeb-445f-b1fd-2800753327f0.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\5fa14be1-e77b-49ef-b0ff-74279fbfc27d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5fa14be1-e77b-49ef-b0ff-74279fbfc27d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\60c23dba-45e2-448d-81b5-f9ce1cdbcf44.pdf",
+      "PackagePath": "staticwebassets\\uploads\\60c23dba-45e2-448d-81b5-f9ce1cdbcf44.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\613d8333-b246-4f29-92cf-ef731673df08.png",
+      "PackagePath": "staticwebassets\\uploads\\613d8333-b246-4f29-92cf-ef731673df08.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\6186ff56-e52e-41ee-bf2f-f120c1a88e73.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\6186ff56-e52e-41ee-bf2f-f120c1a88e73.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\63053fce-9ad5-45d2-b6be-bd7180627b4f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\63053fce-9ad5-45d2-b6be-bd7180627b4f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\63be5f94-dd78-4bd2-ab34-488bc68dbabf.pdf",
+      "PackagePath": "staticwebassets\\uploads\\63be5f94-dd78-4bd2-ab34-488bc68dbabf.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\6914e447-580d-4344-abdf-991d2bca19f9.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6914e447-580d-4344-abdf-991d2bca19f9.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\69356047-c0be-44d7-aeda-a0a725e386dd.pdf",
+      "PackagePath": "staticwebassets\\uploads\\69356047-c0be-44d7-aeda-a0a725e386dd.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\698d92ec-4fe0-4614-ad9f-038c1551a2dd.PDF",
+      "PackagePath": "staticwebassets\\uploads\\698d92ec-4fe0-4614-ad9f-038c1551a2dd.PDF"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\69e03558-e6b7-4312-9d01-1cbad1f7a98e.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\69e03558-e6b7-4312-9d01-1cbad1f7a98e.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\6e01723a-59a3-4ca8-bb8c-869985378ea1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6e01723a-59a3-4ca8-bb8c-869985378ea1.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\6e56e311-8abe-4b98-8d23-160400210b8b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6e56e311-8abe-4b98-8d23-160400210b8b.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\6ed77559-d5a1-4b92-b21b-9e7422b4981b.png",
+      "PackagePath": "staticwebassets\\uploads\\6ed77559-d5a1-4b92-b21b-9e7422b4981b.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\6f480466-49d3-43cf-9adb-8d0790871172.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6f480466-49d3-43cf-9adb-8d0790871172.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\6f4be43f-1ef5-41c8-92ad-8843250cf96d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\6f4be43f-1ef5-41c8-92ad-8843250cf96d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\7015826a-e4d0-4f88-9450-ff624b4f77d7.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\7015826a-e4d0-4f88-9450-ff624b4f77d7.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\71952a7f-2673-4167-9e6b-0bf070520bd1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\71952a7f-2673-4167-9e6b-0bf070520bd1.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\726899c4-7105-491a-992f-cc69bb91e96f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\726899c4-7105-491a-992f-cc69bb91e96f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\72e4a912-2c6c-4670-8efa-62d5d609d883.pdf",
+      "PackagePath": "staticwebassets\\uploads\\72e4a912-2c6c-4670-8efa-62d5d609d883.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\73dd6d88-f5d8-41c1-9a19-309f21db559b.doc",
+      "PackagePath": "staticwebassets\\uploads\\73dd6d88-f5d8-41c1-9a19-309f21db559b.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\73e9aec4-b71b-4719-9a6e-5eca345a4081.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\73e9aec4-b71b-4719-9a6e-5eca345a4081.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\753ed6cc-a845-43d2-bfd1-b6b9d58f624f.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\753ed6cc-a845-43d2-bfd1-b6b9d58f624f.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\758ffe86-a265-438d-b9c4-8f5f61ebad9f.doc",
+      "PackagePath": "staticwebassets\\uploads\\758ffe86-a265-438d-b9c4-8f5f61ebad9f.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\791514ef-4c57-41b3-9027-71ac9db578b7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\791514ef-4c57-41b3-9027-71ac9db578b7.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\7992465d-7b7e-4837-9102-98ff3d8970f7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\7992465d-7b7e-4837-9102-98ff3d8970f7.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\7b4d3a44-b806-4854-ae3b-059d3e70dde8.pdf",
+      "PackagePath": "staticwebassets\\uploads\\7b4d3a44-b806-4854-ae3b-059d3e70dde8.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\7c921ddc-c96a-40e1-89b4-762d56fc87f9.png",
+      "PackagePath": "staticwebassets\\uploads\\7c921ddc-c96a-40e1-89b4-762d56fc87f9.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\7d21378d-a923-4579-871b-cc5636ab45d8.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\7d21378d-a923-4579-871b-cc5636ab45d8.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\7d2ed4f9-c57a-4a1a-9bc9-3de46ee9fe71.pdf",
+      "PackagePath": "staticwebassets\\uploads\\7d2ed4f9-c57a-4a1a-9bc9-3de46ee9fe71.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\7e7e008c-990f-401d-aa31-c1c6fd065afe.png",
+      "PackagePath": "staticwebassets\\uploads\\7e7e008c-990f-401d-aa31-c1c6fd065afe.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\8037c66c-9870-4cf7-bc73-3c558f00f663.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8037c66c-9870-4cf7-bc73-3c558f00f663.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\816a568b-f452-4e70-bba3-5db429e75d0a.png",
+      "PackagePath": "staticwebassets\\uploads\\816a568b-f452-4e70-bba3-5db429e75d0a.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\8310da0b-670f-4e01-b813-66ca44d03a26.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8310da0b-670f-4e01-b813-66ca44d03a26.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\8387839b-b48c-4b09-88bb-880b14210bd5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8387839b-b48c-4b09-88bb-880b14210bd5.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\88f17efe-87db-42d7-9401-e9b2a2a23551.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\88f17efe-87db-42d7-9401-e9b2a2a23551.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\8a232f55-2bbe-4150-b2e1-85c3560b8ded.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\8a232f55-2bbe-4150-b2e1-85c3560b8ded.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\8a955fed-3163-4c51-90c7-931e5ac8b2fc.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\8a955fed-3163-4c51-90c7-931e5ac8b2fc.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\9175f84b-1e18-43e5-8e56-10e19f4e5a6d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9175f84b-1e18-43e5-8e56-10e19f4e5a6d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\91d2c0ee-f293-41df-a02d-0c841c77b587.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\91d2c0ee-f293-41df-a02d-0c841c77b587.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\92b4dd9a-c94c-4b2a-add7-1e66cb6e05b0.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\92b4dd9a-c94c-4b2a-add7-1e66cb6e05b0.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\931b3eab-0016-4c35-bf98-6a19e63cb8e1.png",
+      "PackagePath": "staticwebassets\\uploads\\931b3eab-0016-4c35-bf98-6a19e63cb8e1.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\9381e95f-a52c-497e-af73-2d4ffdf49c4b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9381e95f-a52c-497e-af73-2d4ffdf49c4b.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\957042f8-19e5-49a7-92db-fada1afc41ac.pdf",
+      "PackagePath": "staticwebassets\\uploads\\957042f8-19e5-49a7-92db-fada1afc41ac.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\969774d8-13e0-4ce7-a876-55f5de2f40b3.pdf",
+      "PackagePath": "staticwebassets\\uploads\\969774d8-13e0-4ce7-a876-55f5de2f40b3.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\980470f8-5b96-43a1-82af-52123595872b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\980470f8-5b96-43a1-82af-52123595872b.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\99acb780-0ce8-4ff5-962b-1fa5172a7fb5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\99acb780-0ce8-4ff5-962b-1fa5172a7fb5.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\9b0cc09f-3eec-4ebf-85d7-9cb58291209f.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\9b0cc09f-3eec-4ebf-85d7-9cb58291209f.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\9c537f2b-13fc-4eaf-925c-b7ca21d53007.pdf",
+      "PackagePath": "staticwebassets\\uploads\\9c537f2b-13fc-4eaf-925c-b7ca21d53007.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\9ce3ec53-8826-4399-8be8-cd1a2c34a9d1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9ce3ec53-8826-4399-8be8-cd1a2c34a9d1.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\9f79abd4-b129-4e44-a9a9-7beafdb98f01.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\9f79abd4-b129-4e44-a9a9-7beafdb98f01.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a198ca51-6392-42cd-9a5e-4a7d95942b59.PDF",
+      "PackagePath": "staticwebassets\\uploads\\a198ca51-6392-42cd-9a5e-4a7d95942b59.PDF"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a48dd597-828a-4e43-9cb7-3cd76519a830.doc",
+      "PackagePath": "staticwebassets\\uploads\\a48dd597-828a-4e43-9cb7-3cd76519a830.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a56ef127-ee8a-4b02-b52e-d7fe422365c1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a56ef127-ee8a-4b02-b52e-d7fe422365c1.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a65f2127-ed7d-4e1c-9754-2a9b537720a3.png",
+      "PackagePath": "staticwebassets\\uploads\\a65f2127-ed7d-4e1c-9754-2a9b537720a3.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a71efb44-88f5-4403-8adf-c629666dbee4.pdf",
+      "PackagePath": "staticwebassets\\uploads\\a71efb44-88f5-4403-8adf-c629666dbee4.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a79bd7e3-ba61-4b3b-989f-6c85dc3e7927.png",
+      "PackagePath": "staticwebassets\\uploads\\a79bd7e3-ba61-4b3b-989f-6c85dc3e7927.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a7fce2e7-c7b5-4287-bd74-ae0afe59a88b.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\a7fce2e7-c7b5-4287-bd74-ae0afe59a88b.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a83413fb-36a2-4bb4-aeaa-353be9d59038.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a83413fb-36a2-4bb4-aeaa-353be9d59038.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\a8b13552-6256-445c-907b-aed3909c59cc.pdf",
+      "PackagePath": "staticwebassets\\uploads\\a8b13552-6256-445c-907b-aed3909c59cc.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ad263aca-bcc7-4bf0-9f4a-73c037e0ebb9.png",
+      "PackagePath": "staticwebassets\\uploads\\ad263aca-bcc7-4bf0-9f4a-73c037e0ebb9.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\adbc864e-3b3b-4b31-ae06-29f10a830857.pdf",
+      "PackagePath": "staticwebassets\\uploads\\adbc864e-3b3b-4b31-ae06-29f10a830857.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\afa0823f-0baf-49a8-8737-13d0b7c07f4d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\afa0823f-0baf-49a8-8737-13d0b7c07f4d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b032f311-0b78-4f2a-aa3f-389fe2aa6ebf.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b032f311-0b78-4f2a-aa3f-389fe2aa6ebf.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b126662a-986b-4a5c-98ff-7d884d094f56.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b126662a-986b-4a5c-98ff-7d884d094f56.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b135d841-ca08-4c57-8f86-336fb54a021e.png",
+      "PackagePath": "staticwebassets\\uploads\\b135d841-ca08-4c57-8f86-336fb54a021e.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b1d74699-07e0-4125-9397-54116d4af62e.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b1d74699-07e0-4125-9397-54116d4af62e.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b344377d-dcee-48a6-a30a-7b820ab87b5f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b344377d-dcee-48a6-a30a-7b820ab87b5f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b556a5a9-189f-4df1-aeb0-605d3a8d2c9f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b556a5a9-189f-4df1-aeb0-605d3a8d2c9f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b591cf62-7cf6-4834-a884-4a9213960562.pdf",
+      "PackagePath": "staticwebassets\\uploads\\b591cf62-7cf6-4834-a884-4a9213960562.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b732b7f3-3fe0-417b-ba62-14edcbc52da1.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\b732b7f3-3fe0-417b-ba62-14edcbc52da1.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b98b225f-4296-4cb7-b847-63d33bb0d56d.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\b98b225f-4296-4cb7-b847-63d33bb0d56d.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\b9c9e0d6-a5d2-4c43-87c9-1ff523b19765.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b9c9e0d6-a5d2-4c43-87c9-1ff523b19765.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ba14b4f3-bb99-4842-bd1a-ffae1d92f32c.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ba14b4f3-bb99-4842-bd1a-ffae1d92f32c.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\bb34f9af-0716-4393-aae6-d7305c7ab2a9.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bb34f9af-0716-4393-aae6-d7305c7ab2a9.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\bb55771c-e764-436c-8d89-31315540636d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bb55771c-e764-436c-8d89-31315540636d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\bb68422c-0fc8-43fe-b68f-59bca31a723a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bb68422c-0fc8-43fe-b68f-59bca31a723a.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\bbce7f69-e16b-4c32-bc5c-93c0a92afb65.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\bbce7f69-e16b-4c32-bc5c-93c0a92afb65.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\bc2559e2-e946-4c02-9001-2d81a33b7374.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bc2559e2-e946-4c02-9001-2d81a33b7374.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\be558281-a18c-4ec5-b490-743f191aff53.jpg",
+      "PackagePath": "staticwebassets\\uploads\\be558281-a18c-4ec5-b490-743f191aff53.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\bf60bfa8-c9b5-4906-b190-d89a3f17e711.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bf60bfa8-c9b5-4906-b190-d89a3f17e711.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\bfa6117d-c78c-4770-bd2d-2b698db8ed73.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\bfa6117d-c78c-4770-bd2d-2b698db8ed73.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c04168eb-bce0-4ec9-9be2-2a7f7b4fd7ce.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c04168eb-bce0-4ec9-9be2-2a7f7b4fd7ce.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c167855c-1727-4c09-b6bc-5a41965088a3.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c167855c-1727-4c09-b6bc-5a41965088a3.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c317b63f-d710-4dbf-9c3d-fdce29aad15f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c317b63f-d710-4dbf-9c3d-fdce29aad15f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c36021e2-e7e5-4830-b2c9-ddeb1968f3a1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c36021e2-e7e5-4830-b2c9-ddeb1968f3a1.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c376f957-6900-4487-b8d7-25b443f12f29.doc",
+      "PackagePath": "staticwebassets\\uploads\\c376f957-6900-4487-b8d7-25b443f12f29.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c3c9c051-1849-432f-8bef-0af473ea2256.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\c3c9c051-1849-432f-8bef-0af473ea2256.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c43ea191-93d7-41d0-9815-a1ce1c721bc0.pdf",
+      "PackagePath": "staticwebassets\\uploads\\c43ea191-93d7-41d0-9815-a1ce1c721bc0.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c5acdc31-12fd-474c-ae08-3f1b94751d5f.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\c5acdc31-12fd-474c-ae08-3f1b94751d5f.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c68a73c7-e66c-46fb-bfb6-533a15153cdd.doc",
+      "PackagePath": "staticwebassets\\uploads\\c68a73c7-e66c-46fb-bfb6-533a15153cdd.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\c6a4d6b6-7b5e-4e7b-9672-027deeb1e29f.PDF",
+      "PackagePath": "staticwebassets\\uploads\\c6a4d6b6-7b5e-4e7b-9672-027deeb1e29f.PDF"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\cb75f81e-5448-4952-ab84-525329967b2e.PDF",
+      "PackagePath": "staticwebassets\\uploads\\cb75f81e-5448-4952-ab84-525329967b2e.PDF"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\cccf3e7f-b528-46bc-8f51-5d9e8b495f13.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\cccf3e7f-b528-46bc-8f51-5d9e8b495f13.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\cefc925d-256f-4f73-937b-561feac16a5a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\cefc925d-256f-4f73-937b-561feac16a5a.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\cf340549-8829-4b84-ad83-cf50af00f255.pdf",
+      "PackagePath": "staticwebassets\\uploads\\cf340549-8829-4b84-ad83-cf50af00f255.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d16b6752-28d1-4fde-ac34-f60aec282c7a.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\d16b6752-28d1-4fde-ac34-f60aec282c7a.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d3b2a875-5d0d-4241-b016-200a10872380.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\d3b2a875-5d0d-4241-b016-200a10872380.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d6394549-122d-4a96-b8ca-f0b7059011da.pdf",
+      "PackagePath": "staticwebassets\\uploads\\d6394549-122d-4a96-b8ca-f0b7059011da.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d66f1d2a-850a-4fc2-bf1d-27a2f7878dd8.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\d66f1d2a-850a-4fc2-bf1d-27a2f7878dd8.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d6e8440c-cdb0-42e2-a074-eeac189ec8e2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\d6e8440c-cdb0-42e2-a074-eeac189ec8e2.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d954c4c8-eeab-4464-a4cd-9d317cc0ff5b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\d954c4c8-eeab-4464-a4cd-9d317cc0ff5b.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d95eabb1-030b-4e3f-8dab-61c53d8f5b7b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\d95eabb1-030b-4e3f-8dab-61c53d8f5b7b.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\d9e1bec4-0059-4233-9836-11595701ac80.pdf",
+      "PackagePath": "staticwebassets\\uploads\\d9e1bec4-0059-4233-9836-11595701ac80.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e1017f49-635c-458f-bb70-6fadd9e8e472.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\e1017f49-635c-458f-bb70-6fadd9e8e472.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e37fa444-afc4-4ad2-9751-f623681dc3c7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\e37fa444-afc4-4ad2-9751-f623681dc3c7.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e3bf8df2-c4c8-40e4-bdb9-63f88f778c46.pdf",
+      "PackagePath": "staticwebassets\\uploads\\e3bf8df2-c4c8-40e4-bdb9-63f88f778c46.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e458f6d4-4e9a-479c-9ed0-32ce236682ad.pdf",
+      "PackagePath": "staticwebassets\\uploads\\e458f6d4-4e9a-479c-9ed0-32ce236682ad.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e63f33c2-a150-47b0-b072-123e1ced297e.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\e63f33c2-a150-47b0-b072-123e1ced297e.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e6ca7556-8458-4c51-a8e1-4d84beab2641.pdf",
+      "PackagePath": "staticwebassets\\uploads\\e6ca7556-8458-4c51-a8e1-4d84beab2641.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e717fb9e-9998-4829-a1c8-895399de785a.png",
+      "PackagePath": "staticwebassets\\uploads\\e717fb9e-9998-4829-a1c8-895399de785a.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e7f7f6d7-3e4c-4131-b763-7355a7ffd067.pdf",
+      "PackagePath": "staticwebassets\\uploads\\e7f7f6d7-3e4c-4131-b763-7355a7ffd067.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\e8ead300-a87f-451a-ad6c-9f8f01f78235.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\e8ead300-a87f-451a-ad6c-9f8f01f78235.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ea20c3e4-9702-4586-8731-5abaa5473df6.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ea20c3e4-9702-4586-8731-5abaa5473df6.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ea5673d9-7e9d-4db7-8db1-cbc8338e6f85.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ea5673d9-7e9d-4db7-8db1-cbc8338e6f85.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ec071847-1611-4f68-ae0c-d2cbe4a6a710.png",
+      "PackagePath": "staticwebassets\\uploads\\ec071847-1611-4f68-ae0c-d2cbe4a6a710.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ed01005f-b7c8-4b62-9d0a-62d5d2986e93.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ed01005f-b7c8-4b62-9d0a-62d5d2986e93.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\edda20fc-7b00-4926-906e-e5256089a2db.png",
+      "PackagePath": "staticwebassets\\uploads\\edda20fc-7b00-4926-906e-e5256089a2db.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ef96711b-0adb-4812-a579-47c7e860f78e.png",
+      "PackagePath": "staticwebassets\\uploads\\ef96711b-0adb-4812-a579-47c7e860f78e.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f0987426-f5df-4b0c-b908-b571c5d13d18.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\f0987426-f5df-4b0c-b908-b571c5d13d18.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f295ddb9-3915-4666-8f1e-2c20d944057e.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\f295ddb9-3915-4666-8f1e-2c20d944057e.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f52d3407-752a-418b-8f40-d92d9dc40696.pdf",
+      "PackagePath": "staticwebassets\\uploads\\f52d3407-752a-418b-8f40-d92d9dc40696.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f556338a-e67b-4c85-9f87-127f38d62d62.pdf",
+      "PackagePath": "staticwebassets\\uploads\\f556338a-e67b-4c85-9f87-127f38d62d62.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f56182aa-16fa-4a5e-a753-0503926e22f1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\f56182aa-16fa-4a5e-a753-0503926e22f1.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f77a5ffc-3f6b-4f9e-aaaa-fcf857fd2ce0.pdf",
+      "PackagePath": "staticwebassets\\uploads\\f77a5ffc-3f6b-4f9e-aaaa-fcf857fd2ce0.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f7b6d338-6fd5-4686-a3a8-0abb0050b985.png",
+      "PackagePath": "staticwebassets\\uploads\\f7b6d338-6fd5-4686-a3a8-0abb0050b985.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\f8b92bc4-d914-44fa-844e-8732c72600cf.png",
+      "PackagePath": "staticwebassets\\uploads\\f8b92bc4-d914-44fa-844e-8732c72600cf.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\fdc9562f-351f-499c-80fa-bce0bea463dc.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\fdc9562f-351f-499c-80fa-bce0bea463dc.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\fde6157c-db02-4a22-867a-6ceb8aca9562.png",
+      "PackagePath": "staticwebassets\\uploads\\fde6157c-db02-4a22-867a-6ceb8aca9562.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\fed58bb1-4e56-415e-a6b2-3baf27d82749.png",
+      "PackagePath": "staticwebassets\\uploads\\fed58bb1-4e56-415e-a6b2-3baf27d82749.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\feed40a5-46b5-491c-a7de-ec325abc989f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\feed40a5-46b5-491c-a7de-ec325abc989f.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\ff601e4a-c1ef-46ba-9bf8-f75d37d1eba8.pdf",
+      "PackagePath": "staticwebassets\\uploads\\ff601e4a-c1ef-46ba-9bf8-f75d37d1eba8.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-10-file-1-6313801c-37a3-435f-b328-9ce508e881e5.png",
+      "PackagePath": "staticwebassets\\uploads\\request-10-file-1-6313801c-37a3-435f-b328-9ce508e881e5.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-11-file-1-1ee51f2a-5c17-4367-8841-54f6a5fc996b.png",
+      "PackagePath": "staticwebassets\\uploads\\request-11-file-1-1ee51f2a-5c17-4367-8841-54f6a5fc996b.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-11-file-2-4b8b6d1c-bf57-4cf4-8ba8-9567311b3cf0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request-11-file-2-4b8b6d1c-bf57-4cf4-8ba8-9567311b3cf0.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-11-file-3-de06f0fb-c634-42d5-971b-83695d7ca633.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request-11-file-3-de06f0fb-c634-42d5-971b-83695d7ca633.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-11-file-4-9d00e453-6c4b-4baa-8f90-ca491ee4b95b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request-11-file-4-9d00e453-6c4b-4baa-8f90-ca491ee4b95b.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-11-file-5-b58c4c70-4a8b-479b-8d21-145238972803.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request-11-file-5-b58c4c70-4a8b-479b-8d21-145238972803.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-12-file-1-9c507a7e-0bac-4c87-ba9f-866ec72abb19.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request-12-file-1-9c507a7e-0bac-4c87-ba9f-866ec72abb19.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-12-file-2-ab2da5c8-ecbb-4f23-b1ad-48c8657ffdc5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request-12-file-2-ab2da5c8-ecbb-4f23-b1ad-48c8657ffdc5.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-12-file-3-f726b026-b782-4003-bdee-c01b3acef23b.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request-12-file-3-f726b026-b782-4003-bdee-c01b3acef23b.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request-9-file-1-00374b1d-a211-4b66-9c50-f0f33cfe8b73.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request-9-file-1-00374b1d-a211-4b66-9c50-f0f33cfe8b73.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file1-b8191893-69b2-4754-a2a2-3d828dca769c.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request12file1-b8191893-69b2-4754-a2a2-3d828dca769c.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file10-c6cb8c5d-2613-4dc8-b649-75c629441d2a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file10-c6cb8c5d-2613-4dc8-b649-75c629441d2a.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file11-e626974c-f4ea-48a8-a6f8-c1c16b9380aa.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file11-e626974c-f4ea-48a8-a6f8-c1c16b9380aa.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file12-5b9bc0b1-4ab4-4293-90e5-05089f286d43.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file12-5b9bc0b1-4ab4-4293-90e5-05089f286d43.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file13-2db05e75-616e-486a-8770-34beb81f13d0.doc",
+      "PackagePath": "staticwebassets\\uploads\\request12file13-2db05e75-616e-486a-8770-34beb81f13d0.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file14-adef7e18-d606-4a90-91c0-0618ef4989ce.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file14-adef7e18-d606-4a90-91c0-0618ef4989ce.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file15-4175c2c1-02f1-4d4e-8439-2178255a7128.PDF",
+      "PackagePath": "staticwebassets\\uploads\\request12file15-4175c2c1-02f1-4d4e-8439-2178255a7128.PDF"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file16-abf2e629-e4fe-49ef-98e1-e99219b9515f.png",
+      "PackagePath": "staticwebassets\\uploads\\request12file16-abf2e629-e4fe-49ef-98e1-e99219b9515f.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file17-1f0d6fe6-efa4-4a8f-9ef2-e3214ec924d5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file17-1f0d6fe6-efa4-4a8f-9ef2-e3214ec924d5.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file18-a070a757-efbb-4404-87b9-3d5e69f91618.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file18-a070a757-efbb-4404-87b9-3d5e69f91618.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file19-d75dfc76-d239-47a5-a07d-4760488df20a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file19-d75dfc76-d239-47a5-a07d-4760488df20a.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file2-009be2bf-583d-4d77-969a-4c14212f0ba6.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request12file2-009be2bf-583d-4d77-969a-4c14212f0ba6.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file20-d26f73f4-8d85-4244-b163-fb658198a5b2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file20-d26f73f4-8d85-4244-b163-fb658198a5b2.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file21-54a7940b-f056-4f78-8554-2a55b7765cdf.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file21-54a7940b-f056-4f78-8554-2a55b7765cdf.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file22-dc6d9037-4a5c-49ed-8087-fc7a7fc4b8b4.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file22-dc6d9037-4a5c-49ed-8087-fc7a7fc4b8b4.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file23-0b80b6bc-b451-4e94-b668-80d78bd3665c.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file23-0b80b6bc-b451-4e94-b668-80d78bd3665c.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file24-36e28938-b91c-4713-8ae8-efdb30bea4b9.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file24-36e28938-b91c-4713-8ae8-efdb30bea4b9.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file25-7083462e-a8a5-49fa-a3b2-448e300665ea.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file25-7083462e-a8a5-49fa-a3b2-448e300665ea.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file26-1c208faa-8bf7-4411-a7ad-c3c9cef6606d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file26-1c208faa-8bf7-4411-a7ad-c3c9cef6606d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file27-76410484-4bf7-4301-a96d-a36645140e98.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file27-76410484-4bf7-4301-a96d-a36645140e98.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file28-c1ddb5ab-a511-4194-b0d7-9f026d441629.png",
+      "PackagePath": "staticwebassets\\uploads\\request12file28-c1ddb5ab-a511-4194-b0d7-9f026d441629.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file29-a02a775d-f39f-436f-8a69-8944506dcb82.png",
+      "PackagePath": "staticwebassets\\uploads\\request12file29-a02a775d-f39f-436f-8a69-8944506dcb82.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file3-091e0591-38b9-455c-8f69-451ba61febc1.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request12file3-091e0591-38b9-455c-8f69-451ba61febc1.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file30-709aef33-170d-49e2-a989-e6335cee111e.png",
+      "PackagePath": "staticwebassets\\uploads\\request12file30-709aef33-170d-49e2-a989-e6335cee111e.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file31-e9550a13-aba4-432a-baa7-65eb53e9b117.png",
+      "PackagePath": "staticwebassets\\uploads\\request12file31-e9550a13-aba4-432a-baa7-65eb53e9b117.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file32-c1a771f0-015f-46a7-b4c0-1aa648be0198.png",
+      "PackagePath": "staticwebassets\\uploads\\request12file32-c1a771f0-015f-46a7-b4c0-1aa648be0198.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file33-6a005edf-5ec6-43f0-b16d-3f903c98f364.doc",
+      "PackagePath": "staticwebassets\\uploads\\request12file33-6a005edf-5ec6-43f0-b16d-3f903c98f364.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file34-9c0de1ae-fa0e-4c71-8f71-3fdd17bc9a1e.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file34-9c0de1ae-fa0e-4c71-8f71-3fdd17bc9a1e.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file35-9b11c38b-2e45-4a92-8347-7f59276a857c.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request12file35-9b11c38b-2e45-4a92-8347-7f59276a857c.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file4-80f21ada-d1fe-497b-a4df-5567714543b3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request12file4-80f21ada-d1fe-497b-a4df-5567714543b3.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file5-9d81e8e9-9f88-41e5-a37b-25057d70be89.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request12file5-9d81e8e9-9f88-41e5-a37b-25057d70be89.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file6-db0a257f-7cb0-4687-85e6-70eb198a5692.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request12file6-db0a257f-7cb0-4687-85e6-70eb198a5692.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file7-cc3b4e37-9126-475a-8d86-564d15961e1b.png",
+      "PackagePath": "staticwebassets\\uploads\\request12file7-cc3b4e37-9126-475a-8d86-564d15961e1b.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file8-3fb4e2b4-3a08-4991-8ffd-a9e1450f8a0f.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request12file8-3fb4e2b4-3a08-4991-8ffd-a9e1450f8a0f.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request12file9-dd170886-8590-4dee-9f0c-dc653968fe68.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request12file9-dd170886-8590-4dee-9f0c-dc653968fe68.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request13file1-c4e7cc69-28a5-4606-9542-2530b5ce379f.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request13file1-c4e7cc69-28a5-4606-9542-2530b5ce379f.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request13file2-fceb4ae4-35e8-4870-b415-1c5b5020d2a9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\request13file2-fceb4ae4-35e8-4870-b415-1c5b5020d2a9.jpg"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request13file3-f3bda7b1-5bbb-4b20-94bc-ad717270a7ad.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request13file3-f3bda7b1-5bbb-4b20-94bc-ad717270a7ad.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request13file4-e9734524-4ffb-487e-bd7b-70b69194c70e.png",
+      "PackagePath": "staticwebassets\\uploads\\request13file4-e9734524-4ffb-487e-bd7b-70b69194c70e.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request13file5-31936f83-a884-4904-9dda-10314303feeb.doc",
+      "PackagePath": "staticwebassets\\uploads\\request13file5-31936f83-a884-4904-9dda-10314303feeb.doc"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request14file1-e20fe125-2013-4572-aef7-2171efd223d5.png",
+      "PackagePath": "staticwebassets\\uploads\\request14file1-e20fe125-2013-4572-aef7-2171efd223d5.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request15file1-603dd442-0ee1-4729-be8c-503d0c042bf8.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request15file1-603dd442-0ee1-4729-be8c-503d0c042bf8.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request16file1-85cfe1cb-6492-429e-b28d-2b7675a143ee.png",
+      "PackagePath": "staticwebassets\\uploads\\request16file1-85cfe1cb-6492-429e-b28d-2b7675a143ee.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request17file1-7e7e00bf-be4c-4dec-8982-dcba3c660c85.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request17file1-7e7e00bf-be4c-4dec-8982-dcba3c660c85.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request1file1-e19520bb-8198-453a-9fae-abc4d3092c67.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request1file1-e19520bb-8198-453a-9fae-abc4d3092c67.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request1file2-a4831904-2410-47f0-814d-807987e6e81d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request1file2-a4831904-2410-47f0-814d-807987e6e81d.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request1file3-28fd3376-36dc-4b92-8f81-4cc23c92d7f2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request1file3-28fd3376-36dc-4b92-8f81-4cc23c92d7f2.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request2file1-1af9d7a8-8804-458c-bf79-702c083eb937.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\request2file1-1af9d7a8-8804-458c-bf79-702c083eb937.xlsx"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request3file1-6e2f66c4-046d-4b02-91a6-f6a6990e9b45.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request3file1-6e2f66c4-046d-4b02-91a6-f6a6990e9b45.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request4file1-ffa022c5-0a85-4355-90bb-16efa80ec80b.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request4file1-ffa022c5-0a85-4355-90bb-16efa80ec80b.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request5file1-b3575499-8b6b-4c0b-a53e-91c1cad6b73e.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request5file1-b3575499-8b6b-4c0b-a53e-91c1cad6b73e.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request6file1-30b34ada-46a8-412e-ab70-ef635a835703.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request6file1-30b34ada-46a8-412e-ab70-ef635a835703.pdf"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request7file1-8da5f838-002a-42da-ae1c-938be9566097.png",
+      "PackagePath": "staticwebassets\\uploads\\request7file1-8da5f838-002a-42da-ae1c-938be9566097.png"
+    },
+    {
+      "Id": "D:\\C# Projects\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\wwwroot\\uploads\\request8file1-647bc02b-9085-493f-b8ce-8471605e1b9f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\request8file1-647bc02b-9085-493f-b8ce-8471605e1b9f.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LegalTranslation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LegalTranslation.props",
+      "PackagePath": "build\\LegalTranslation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LegalTranslation.props",
+      "PackagePath": "buildMultiTargeting\\LegalTranslation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LegalTranslation.props",
+      "PackagePath": "buildTransitive\\LegalTranslation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

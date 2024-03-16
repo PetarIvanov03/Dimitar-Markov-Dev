@@ -1,0 +1,63 @@
+﻿﻿@using LegalTranslation.ViewModels
+@model ChangeEmailViewModel
+
+@{
+    ViewData["Title"] = "Промяна на E-mail";
+}
+<br>
+    @if(@TempData["AlertMessageRed"] != null)
+    {
+        <div class="alert alert-danger">
+            <strong>Съобщение - </strong>@TempData["AlertMessageRed"]
+        </div>
+    }
+    @if(@TempData["AlertMessageGreen"] != null)
+    {
+        <div class="alert alert-success">
+            <strong>Съобщение - </strong>@TempData["AlertMessageGreen"]
+        </div>
+    }
+<br>
+
+<div>
+    <p>
+        <h4 class="newOutConst">Промяна на E-mail</h4>
+    </p>
+    @if (TempData["Error"] != null)
+    {
+        <div class="col-md-12 alert alert-danger">
+            <span><b>Sorry!</b> - @TempData["Error"]</span>
+        </div>
+    }
+    <div class="newInConst">
+        <form asp-action="ChangeEmail">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" value="@Model.Id" id="Id" name="Id"/>
+            <div class="form-group">
+                <label asp-for="OldEmail" class="control-label">Стар e-mail</label>
+                <input asp-for="OldEmail" class="form-control" type="email" required>
+                <span asp-validation-for="OldEmail" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="NewEmail" class="control-label">Нов e-mail</label>
+                <input asp-for="NewEmail" class="form-control" type="email" required>
+                <span asp-validation-for="NewEmail" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Парола</label>
+                <input asp-for="Password" class="form-control"  required/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <input class="btn greenbtn-custom" type="submit" value="Запази промените" />
+                <a class="btn redbtn-custom" asp-controller="Admin" asp-action="Index">Отказ</a>
+            </div>
+        </form>
+        <br>
+    </div>
+</div>
+
+<br>

@@ -1,0 +1,54 @@
+﻿@using LegalTranslation.ViewModels
+
+@model DetailsRequestViewModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Заявка " + @Model.Id;
+}
+
+<!-- Page Content -->
+<br>
+<div class="newOutConst">
+    <br>
+    <!-- Portfolio Item Heading -->
+    <h1 class="my-4 px-5">Заявка номер:
+      <br>
+      <small>@Model.Id</small>
+    </h1>
+  
+    <!-- Portfolio Item Row -->
+    <div class="row m-auto">
+  
+  
+      <div class="col px-5">
+            <p><b>Име: </b>@Model.FirstName @Model.FamilyName<p>
+            <p><b>Имейл: </b>@Model.Email<p>
+            <p><b>Телефон: </b>@Model.Phone<p>
+            <p><b>От език: </b>@Model.FromLanguage.Name</p>
+            <p><b>На език: </b>@Model.ToLanguage.Name</p>
+            <p><b>Допълнителна информация:</b></p>
+        <p>@Model.AdditionalInfo</p>
+            <p><b>Приета заявка: </b>@(Model.DateCreated.ToString("dd-MMMM-yyyy HH:mm:ss"))</p>
+            <p><b>Прикачени файлове:</b></p>
+        
+
+        @foreach(var item in @Model.Files)
+          {
+              <a href="~/uploads/@item" class="blackfont" download>
+                  Download > @item
+              </a>
+              <br>
+          }
+            <br>
+      </div>
+  
+    </div>
+
+</div>
+<br>
+<a class="newOutConst btn bluebtn-custom" asp-controller="Admin" asp-action="Index">Назад</a>
+<br>
+<br>

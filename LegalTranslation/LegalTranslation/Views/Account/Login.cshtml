@@ -1,0 +1,49 @@
+﻿﻿@using LegalTranslation.ViewModels
+@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Вход";
+}
+<br>
+
+<div class="">
+    <div class="">
+        <p>
+            <h4 class="newOutConst">Вход в системата</h4>
+        </p>
+        @if(TempData["AlertMessageRed"] != null)
+        {
+            <div class="col-md-12 alert alert-danger">
+                <span><b>Опитайте отново! </b> @TempData["AlertMessageRed"]</span>
+            </div>
+        }
+        <div class="newInConst">
+            <div class="">
+                <form asp-action="Login">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div>
+                        <label asp-for="Email" class="control-label">E-mail</label>
+                        <input asp-for="Email" class="form-control" type="email" required>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <label asp-for="Password" class="control-label">Парола</label>
+                        <input asp-for="Password" class="form-control" type="password" required>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <br>
+
+                    <div>
+                        <input class="btn btn-outline-success float right greenbtn-custom mt-1" type="submit" value="Влизане" />
+                        <a class="btn btn-outline-secondary graybtn-custom mt-1" asp-controller="Home" asp-action="Index">Назад</a>
+                        <a class="btn btn-outline-secondary bluebtn-custom mt-1" asp-controller="Account" asp-action="ForgottenPassword">Забравена парола</a>
+                    </div>
+                </form>
+                <br>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br>

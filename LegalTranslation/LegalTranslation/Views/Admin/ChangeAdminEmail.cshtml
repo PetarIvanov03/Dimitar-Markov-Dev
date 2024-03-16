@@ -1,0 +1,55 @@
+﻿﻿@using LegalTranslation.ViewModels
+@model ChangeAdminOrCompanyEmailViewModel
+
+@{
+    ViewData["Title"] = "Промяна на admin E-mail";
+}
+<br>
+    @if(@TempData["AlertMessageRed"] != null)
+    {
+        <div class="alert alert-danger">
+            <strong>Съобщение - </strong>@TempData["AlertMessageRed"]
+        </div>
+    }
+    @if(@TempData["AlertMessageGreen"] != null)
+    {
+        <div class="alert alert-success">
+            <strong>Съобщение - </strong>@TempData["AlertMessageGreen"]
+        </div>
+    }
+<br>
+
+<div>
+    <p>
+        <h4 class="newOutConst">Промяна на admin E-mail</h4>
+    </p>
+    <div class="newInConst">
+        <form asp-action="ChangeAdminEmail">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">E-mail</label>
+                <input asp-for="Name" class="form-control"  required/>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Парола</label>
+                <input asp-for="Password" class="form-control" type="text" required/>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="ConfirmationPassword" class="control-label">Парола на Администратор</label>
+                <input asp-for="ConfirmationPassword" class="form-control"  required/>
+                <span asp-validation-for="ConfirmationPassword" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <input class="btn greenbtn-custom" type="submit" value="Запази промените" />
+                <a class="btn redbtn-custom" asp-controller="Admin" asp-action="Index">Отказ</a>
+            </div>
+        </form>
+        <br>
+    </div>
+</div>
+
+<br>

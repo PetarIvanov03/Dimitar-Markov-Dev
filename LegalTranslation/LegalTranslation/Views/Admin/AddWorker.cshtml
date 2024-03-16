@@ -1,0 +1,50 @@
+﻿﻿@using LegalTranslation.ViewModels
+@model LoginViewModel
+
+@{
+    ViewData["Title"] = "Нов worker";
+}
+<br>
+    @if(@TempData["AlertMessageRed"] != null)
+    {
+        <div class="alert alert-danger">
+            <strong>Съобщение - </strong>@TempData["AlertMessageRed"]
+        </div>
+    }
+    @if(@TempData["AlertMessageGreen"] != null)
+    {
+        <div class="alert alert-success">
+            <strong>Съобщение - </strong>@TempData["AlertMessageGreen"]
+        </div>
+    }
+<br>
+
+<div>
+    <p>
+        <h4 class="newOutConst">Нов worker</h4>
+    </p>
+    <div class="newInConst">
+        <form asp-action="AddWorker">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">E-mail</label>
+                <input asp-for="Email" class="form-control" type="email" required>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Парола</label>
+                <input asp-for="Password" class="form-control" type="password" required>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <input class="btn greenbtn-custom" type="submit" value="Добави" />
+                <a class="btn redbtn-custom" asp-controller="Admin" asp-action="Index">Отказ</a>
+            </div>
+        </form>
+        <br>
+    </div>
+</div>
+
+<br>
