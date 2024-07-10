@@ -8,101 +8,101 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LegalTranslation
 build_property.RootNamespace = LegalTranslation
-build_property.ProjectDir = D:\Projects\Customer Projects\Dimitar Markov\Dimitar-Markov\LegalTranslation\LegalTranslation\
+build_property.ProjectDir = D:\Projects\Customer Projects\Dimitar Markov\Dimitar-Markov-Dev\LegalTranslation\LegalTranslation\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projects\Customer Projects\Dimitar Markov\Dimitar-Markov\LegalTranslation\LegalTranslation
+build_property.MSBuildProjectDirectory = D:\Projects\Customer Projects\Dimitar Markov\Dimitar-Markov-Dev\LegalTranslation\LegalTranslation
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Account/ForgottenPassword.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Account/ForgottenPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3R0ZW5QYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Account/Login.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/AddLanguage.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/AddLanguage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkTGFuZ3VhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/AddWorker.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/AddWorker.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkV29ya2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/AllWorkers.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/AllWorkers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxsV29ya2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/ChangeAdminEmail.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/ChangeAdminEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhbmdlQWRtaW5FbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/ChangeCompanyEmail.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/ChangeCompanyEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhbmdlQ29tcGFueUVtYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/ChangeEmail.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/ChangeEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhbmdlRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/ChangePassword.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/CompletedRequests.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/CompletedRequests.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29tcGxldGVkUmVxdWVzdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/Details.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/Index.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/LanguagesEdit.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/LanguagesEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGFuZ3VhZ2VzRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Admin/PendingRequests.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Admin/PendingRequests.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGVuZGluZ1JlcXVlc3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/ForUs/Index.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/ForUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9yVXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Home/Index.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Request/Index.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Request/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Services/Index.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Shared/Error.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/_ViewImports.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/_ViewStart.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov/LegalTranslation/LegalTranslation/Views/Shared/_Layout.cshtml]
+[D:/Projects/Customer Projects/Dimitar Markov/Dimitar-Markov-Dev/LegalTranslation/LegalTranslation/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-68x5o4ah3g

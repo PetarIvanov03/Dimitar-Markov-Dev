@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rqsfTBF2Sya+faAlUD7f1JsoRjTujz8aTPH6EFqFGEDqa785lQX1Xnv1RiUDXTsw11k0XBtWy6t7tJQgGNAnjw==",
+  "dgSpecHash": "pEF/N08W7XrwLoc7SGZTEzuJN/zohx0pwI5pK+x4c87YxWi1xegMz8GGVUDTd9bQ2fLD5moBA7ZIzWcGY5GhfQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Customer Projects\\Dimitar Markov\\Dimitar-Markov\\LegalTranslation\\LegalTranslation\\LegalTranslation.csproj",
+  "projectFilePath": "D:\\Projects\\Customer Projects\\Dimitar Markov\\Dimitar-Markov-Dev\\LegalTranslation\\LegalTranslation\\LegalTranslation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Petar Ivanov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Petar Ivanov\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
